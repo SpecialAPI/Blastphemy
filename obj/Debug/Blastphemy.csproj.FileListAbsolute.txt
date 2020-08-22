@@ -1,0 +1,13 @@
+C:\Users\Andrey\source\repos\Blastphemy\bin\Debug\Blastphemy.dll
+C:\Users\Andrey\source\repos\Blastphemy\bin\Debug\Blastphemy.pdb
+C:\Users\Andrey\source\repos\Blastphemy\bin\Debug\Assembly-CSharp.Base.mm.dll
+C:\Users\Andrey\source\repos\Blastphemy\bin\Debug\Assembly-CSharp.dll
+C:\Users\Andrey\source\repos\Blastphemy\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\Andrey\source\repos\Blastphemy\bin\Debug\MonoMod.Utils.dll
+C:\Users\Andrey\source\repos\Blastphemy\bin\Debug\UnityEngine.CoreModule.Base.mm.dll
+C:\Users\Andrey\source\repos\Blastphemy\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Andrey\source\repos\Blastphemy\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Andrey\source\repos\Blastphemy\obj\Debug\Blastphemy.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Blastphemy\obj\Debug\Blastphemy.csproj.CopyComplete
+C:\Users\Andrey\source\repos\Blastphemy\obj\Debug\Blastphemy.dll
+C:\Users\Andrey\source\repos\Blastphemy\obj\Debug\Blastphemy.pdb
